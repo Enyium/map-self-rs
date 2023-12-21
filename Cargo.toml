@@ -1,0 +1,9 @@
+[package]
+name = "map-self"
+version = "0.1.0"
+description = "Map a value itself instead of its contained value in usual closure style"
+categories = ["rust-patterns"]
+repository = "https://github.com/Enyium/map-self-rs"
+documentation = "https://docs.rs/map-self"
+license = "MIT OR Apache-2.0"
+edition = "2021"
